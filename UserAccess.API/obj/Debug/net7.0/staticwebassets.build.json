@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "x9Kxp98mRe1V/y+JFymos1lEsxU53sGkmGo9SXc0SBA=",
+  "Source": "UserAccess.API",
+  "BasePath": "_content/UserAccess.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\ncoded\\source\\repos\\Microservices\\Catalog.API\\Catalog.API.csproj",
+      "Version": 2,
+      "Source": "Catalog.API",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q/W4eBrHinCdjCiehY4cG7cvuBgvo63oFVZfHuMVXbDHsivYO9QqkVaBS3bCQa53K0I85O6cNSwXmTVUHaXYgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ncoded\\source\\repos\\Microservices\\Catalog.Domain\\Catalog.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ncoded\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\ncoded\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\ncoded\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
